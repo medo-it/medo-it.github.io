@@ -1,0 +1,19 @@
+p {
+    margin: 15px;
+    text-align: center;
+  }
+h1 {
+    text-align: center;
+}
+
+#services {
+    font-size: 0.8rem;
+}
+
+#usluge_tab {
+    margin: 15px;
+}
+
+td {
+    border-top: 2px solid #C1437A;
+}
